@@ -26,7 +26,3 @@
 -- 8- during weekends which city has highest total spend to total no of transcations ratio 
 
 -- 9- which city took least number of days to reach its 500th transaction after the first transaction in that city
-
--- once you are done with this create a github repo to put that link in your resume. Some example github links:
--- https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects/tree/master/Advanced%20SQL%20for%20Application%20Development
--- https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql
